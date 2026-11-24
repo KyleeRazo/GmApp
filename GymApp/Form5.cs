@@ -16,5 +16,10 @@ namespace GymApp
         {
             InitializeComponent();
         }
+
+        private void guna2TextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
