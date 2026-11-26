@@ -142,11 +142,11 @@
             this.label6.BackColor = System.Drawing.Color.Transparent;
             this.label6.Font = new System.Drawing.Font("Microsoft Uighur", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.Transparent;
-            this.label6.Location = new System.Drawing.Point(26, 75);
+            this.label6.Location = new System.Drawing.Point(48, 75);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(30, 23);
+            this.label6.Size = new System.Drawing.Size(22, 23);
             this.label6.TabIndex = 1;
-            this.label6.Text = "-----";
+            this.label6.Text = "---";
             // 
             // label5
             // 
@@ -154,11 +154,11 @@
             this.label5.BackColor = System.Drawing.Color.Transparent;
             this.label5.Font = new System.Drawing.Font("Microsoft Uighur", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.Transparent;
-            this.label5.Location = new System.Drawing.Point(46, 30);
+            this.label5.Location = new System.Drawing.Point(70, 30);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(86, 37);
+            this.label5.Size = new System.Drawing.Size(62, 37);
             this.label5.TabIndex = 0;
-            this.label5.Text = "------- kg";
+            this.label5.Text = "--- kg";
             // 
             // label10
             // 
@@ -178,11 +178,11 @@
             this.label9.BackColor = System.Drawing.Color.Transparent;
             this.label9.Font = new System.Drawing.Font("Microsoft Uighur", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.Transparent;
-            this.label9.Location = new System.Drawing.Point(15, 75);
+            this.label9.Location = new System.Drawing.Point(45, 75);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(30, 23);
+            this.label9.Size = new System.Drawing.Size(22, 23);
             this.label9.TabIndex = 1;
-            this.label9.Text = "-----";
+            this.label9.Text = "---";
             // 
             // label8
             // 
@@ -190,11 +190,11 @@
             this.label8.BackColor = System.Drawing.Color.Transparent;
             this.label8.Font = new System.Drawing.Font("Microsoft Uighur", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.Transparent;
-            this.label8.Location = new System.Drawing.Point(41, 30);
+            this.label8.Location = new System.Drawing.Point(65, 30);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(100, 37);
+            this.label8.Size = new System.Drawing.Size(76, 37);
             this.label8.TabIndex = 0;
-            this.label8.Text = "------- kcal";
+            this.label8.Text = "--- kcal";
             // 
             // label12
             // 
@@ -214,11 +214,11 @@
             this.label11.BackColor = System.Drawing.Color.Transparent;
             this.label11.Font = new System.Drawing.Font("Microsoft Uighur", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.ForeColor = System.Drawing.Color.Transparent;
-            this.label11.Location = new System.Drawing.Point(41, 30);
+            this.label11.Location = new System.Drawing.Point(50, 30);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(47, 37);
+            this.label11.Size = new System.Drawing.Size(35, 37);
             this.label11.TabIndex = 0;
-            this.label11.Text = "-----";
+            this.label11.Text = "---";
             // 
             // label14
             // 
@@ -238,11 +238,11 @@
             this.label13.BackColor = System.Drawing.Color.Transparent;
             this.label13.Font = new System.Drawing.Font("Microsoft Uighur", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label13.ForeColor = System.Drawing.Color.Transparent;
-            this.label13.Location = new System.Drawing.Point(35, 30);
+            this.label13.Location = new System.Drawing.Point(48, 30);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(47, 37);
+            this.label13.Size = new System.Drawing.Size(35, 37);
             this.label13.TabIndex = 0;
-            this.label13.Text = "-----";
+            this.label13.Text = "---";
             // 
             // label23
             // 
@@ -252,9 +252,9 @@
             this.label23.ForeColor = System.Drawing.Color.Transparent;
             this.label23.Location = new System.Drawing.Point(123, 409);
             this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(65, 26);
+            this.label23.Size = new System.Drawing.Size(61, 26);
             this.label23.TabIndex = 9;
-            this.label23.Text = "---- / 70 g";
+            this.label23.Text = "--- / 70 g";
             // 
             // label22
             // 
@@ -264,9 +264,9 @@
             this.label22.ForeColor = System.Drawing.Color.Transparent;
             this.label22.Location = new System.Drawing.Point(115, 355);
             this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(73, 26);
+            this.label22.Size = new System.Drawing.Size(69, 26);
             this.label22.TabIndex = 8;
-            this.label22.Text = "---- / 300 g";
+            this.label22.Text = "--- / 300 g";
             // 
             // label21
             // 
@@ -276,9 +276,9 @@
             this.label21.ForeColor = System.Drawing.Color.Transparent;
             this.label21.Location = new System.Drawing.Point(115, 293);
             this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(73, 26);
+            this.label21.Size = new System.Drawing.Size(69, 26);
             this.label21.TabIndex = 7;
-            this.label21.Text = "---- / 150 g";
+            this.label21.Text = "--- / 150 g";
             // 
             // label20
             // 
@@ -334,11 +334,11 @@
             this.label16.BackColor = System.Drawing.Color.Transparent;
             this.label16.Font = new System.Drawing.Font("Microsoft Uighur", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label16.ForeColor = System.Drawing.Color.Transparent;
-            this.label16.Location = new System.Drawing.Point(83, 196);
+            this.label16.Location = new System.Drawing.Point(91, 196);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(38, 23);
+            this.label16.Size = new System.Drawing.Size(30, 23);
             this.label16.TabIndex = 2;
-            this.label16.Text = "-----  /";
+            this.label16.Text = "---  /";
             // 
             // label15
             // 
@@ -372,9 +372,9 @@
             this.label25.ForeColor = System.Drawing.Color.Transparent;
             this.label25.Location = new System.Drawing.Point(28, 44);
             this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(118, 45);
+            this.label25.Size = new System.Drawing.Size(78, 45);
             this.label25.TabIndex = 2;
-            this.label25.Text = "-------- kg";
+            this.label25.Text = "--- kg";
             // 
             // label24
             // 
@@ -434,7 +434,7 @@
             this.guna2ShadowPanel1.Controls.Add(this.pictureBox1);
             this.guna2ShadowPanel1.Controls.Add(this.label1);
             this.guna2ShadowPanel1.Controls.Add(this.label2);
-            this.guna2ShadowPanel1.FillColor = System.Drawing.Color.Transparent;
+            this.guna2ShadowPanel1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(29)))), ((int)(((byte)(29)))), ((int)(((byte)(29)))));
             this.guna2ShadowPanel1.Location = new System.Drawing.Point(-4, -12);
             this.guna2ShadowPanel1.Name = "guna2ShadowPanel1";
             this.guna2ShadowPanel1.ShadowColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
@@ -550,7 +550,7 @@
             // 
             this.guna2TextBox1.BorderRadius = 10;
             this.guna2TextBox1.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2TextBox1.DefaultText = "Search";
+            this.guna2TextBox1.DefaultText = "Search Workouts, Foods...";
             this.guna2TextBox1.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
             this.guna2TextBox1.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
             this.guna2TextBox1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
@@ -715,7 +715,7 @@
             this.guna2CircleProgressBar1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(200)))), ((int)(((byte)(213)))), ((int)(((byte)(218)))), ((int)(((byte)(223)))));
             this.guna2CircleProgressBar1.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.guna2CircleProgressBar1.ForeColor = System.Drawing.Color.White;
-            this.guna2CircleProgressBar1.Location = new System.Drawing.Point(31, 56);
+            this.guna2CircleProgressBar1.Location = new System.Drawing.Point(38, 60);
             this.guna2CircleProgressBar1.Minimum = 0;
             this.guna2CircleProgressBar1.Name = "guna2CircleProgressBar1";
             this.guna2CircleProgressBar1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
